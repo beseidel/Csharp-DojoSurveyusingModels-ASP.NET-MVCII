@@ -1,0 +1,81 @@
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/bin/Debug/netcoreapp2.1/DojoSurvey.deps.json
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/bin/Debug/netcoreapp2.1/DojoSurvey.runtimeconfig.json
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/bin/Debug/netcoreapp2.1/DojoSurvey.runtimeconfig.dev.json
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/bin/Debug/netcoreapp2.1/DojoSurvey.dll
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/bin/Debug/netcoreapp2.1/DojoSurvey.pdb
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/bin/Debug/netcoreapp2.1/DojoSurvey.Views.dll
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/bin/Debug/netcoreapp2.1/DojoSurvey.Views.pdb
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.csprojAssemblyReference.cache
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.csproj.CoreCompileInputs.cache
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.RazorAssemblyInfo.cache
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.RazorAssemblyInfo.cs
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.AssemblyInfoInputs.cache
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.AssemblyInfo.cs
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.TagHelpers.input.cache
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.TagHelpers.output.cache
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.RazorCoreGenerate.cache
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.RazorTargetAssemblyInfo.cache
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.RazorTargetAssemblyInfo.cs
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.Views.pdb
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.dll
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.pdb
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.csproj.CopyComplete
+c:/Users/yueka/Documents/boise-coding-dojo/aspnet/boiler-plates/DojoSurvey/obj/Debug/netcoreapp2.1/Razor/Views/Home/Result.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/bin/Debug/netcoreapp2.1/DojoSurvey.deps.json
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/bin/Debug/netcoreapp2.1/DojoSurvey.runtimeconfig.json
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/bin/Debug/netcoreapp2.1/DojoSurvey.runtimeconfig.dev.json
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/bin/Debug/netcoreapp2.1/DojoSurvey.dll
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/bin/Debug/netcoreapp2.1/DojoSurvey.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/bin/Debug/netcoreapp2.1/DojoSurvey.Views.dll
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/bin/Debug/netcoreapp2.1/DojoSurvey.Views.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.csprojAssemblyReference.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.csproj.CoreCompileInputs.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.RazorAssemblyInfo.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.RazorAssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.AssemblyInfoInputs.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.AssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.TagHelpers.input.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.TagHelpers.output.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.RazorCoreGenerate.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/Razor/Views/Home/Result.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.RazorTargetAssemblyInfo.cache
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.RazorTargetAssemblyInfo.cs
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.Views.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.dll
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.pdb
+/Users/Abhi/Desktop/Coding Dojo/C#_stack/DojoSurveyDemo/obj/Debug/netcoreapp2.1/DojoSurvey.csproj.CopyComplete
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/bin/Debug/netcoreapp2.1/DojoSurvey.deps.json
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/bin/Debug/netcoreapp2.1/DojoSurvey.runtimeconfig.json
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/bin/Debug/netcoreapp2.1/DojoSurvey.runtimeconfig.dev.json
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/bin/Debug/netcoreapp2.1/DojoSurvey.dll
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/bin/Debug/netcoreapp2.1/DojoSurvey.pdb
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/bin/Debug/netcoreapp2.1/DojoSurvey.Views.dll
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/bin/Debug/netcoreapp2.1/DojoSurvey.Views.pdb
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.csprojAssemblyReference.cache
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.csproj.CoreCompileInputs.cache
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.RazorAssemblyInfo.cache
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.RazorAssemblyInfo.cs
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.AssemblyInfoInputs.cache
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.AssemblyInfo.cs
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.TagHelpers.input.cache
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.TagHelpers.output.cache
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.RazorCoreGenerate.cache
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/Razor/Views/Home/Result.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.RazorTargetAssemblyInfo.cache
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.RazorTargetAssemblyInfo.cs
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.Views.pdb
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.dll
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.pdb
+/Users/work/Desktop/C#/mvcII/DojoSurveywithModel/obj/Debug/netcoreapp2.1/DojoSurvey.csproj.CopyComplete

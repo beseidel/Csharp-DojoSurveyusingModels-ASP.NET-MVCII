@@ -1,0 +1,30 @@
+﻿@model DojoSurvey.Models.Survey
+
+<h1 class="display-4">Dojo Survey</h1>
+<div class="container">
+    <form asp-action='Result' asp-controller="Home" method="post">
+        <label asp-for="Name">Your Name</label>
+        <span asp-validation-for="Name"></span>
+        <input asp-for="Name" class="form-control w-50">
+        <label asp-for="Location">Dojo Location</label>
+        <span asp-validation-for="Location"></span>
+        <select asp-for="Location" class="form-control w-50">
+            <option value="Tulsa">Tulsa</option>
+            <option value="San Jose">San Jose</option>
+            <option value="Boise">Boise</option>
+            <option value="Seattle">Seattle</option>
+        </select>
+        <label asp-for="Language">Dojo Location</label>
+        <span asp-validation-for="Language"></span>
+        <select asp-for="Language" class="form-control w-50">
+            <option value="JavaScript">JavaScript</option>
+            <option value="C#">C#</option>
+            <option value="Python">Python</option>
+            <option value="Ruby">Ruby</option>
+        </select>
+        <label asp-for="Comments">Comments</label>
+        <span asp-validation-for="Comments"></span>
+        <textarea asp-for="Comments" cols="15" rows="5" class="form-control"></textarea>
+        <button class="btn btn-info">Submit</button>
+    </form>
+</div>
